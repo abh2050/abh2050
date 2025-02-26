@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm **Abhishek Shah, PMP**
 
-### 🚀 Data Scientist | AI Engineer | ML Enthusiast
+### 🚀 Data Scientist | AI/ML Engineer 
 
 📍 Portland, OR | ✉️ [abh2050@gmail.com](mailto\:abh2050@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek175/) | ✍️ [Medium](https://medium.com/@jwbtmf) | [Spotify_Podcast](https://creators.spotify.com/pod/dashboard/episodes)
 
