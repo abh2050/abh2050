@@ -36,10 +36,7 @@ Hey, I’m Abhishek! I **design, deploy, and optimize AI & ML solutions** for re
 ### **🚀 Projects & Contributions**
 
 📌 **BMW AI Solutions**
-
-- 🚗 Built **XGBoost classification models** for **defect detection** → saved **\$70K/month**
-- 🛠️ Deployed **SARIMAX forecasting** for **vehicle delivery optimization** → reduced delays by **30%**
-- 💜 Developed **GenAI-powered RAG** for contract review → saved **250+ attorney hours annually**
+- Contribute to the AI program at BMW of North America, including the manufacturing site in Spartanburg, SC, strategically leveraging artificial intelligence to drive cost reduction and enhance quality across the organization.
 
 📌 **Intel AI & ML Work**
 
