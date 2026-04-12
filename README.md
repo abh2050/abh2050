@@ -13,7 +13,7 @@ Enterprise AI · Multi-Agent Systems · AEC Industry
 
 I build production multi-agent AI systems for enterprise environments where compliance, governance, and reliability are non-negotiable. Currently governing the Abacus AI enterprise platform at a top-ten AEC firm, managing a Microsoft Copilot rollout across hundreds of engineers, and running a vendor oversight framework for external RAG and multi-agent workstreams.
 
-Before AI: chemical engineer at Intel and BMW of North America, where I shipped the BMW AI Champions program across manufacturing plants in Germany and China. I think in systems, operate at the intersection of technical depth and organizational change, and write about it on Medium and Spotify.
+Before this role: Started as a chemical engineer, then pivoted to AI while at Intel. At BMW of North America, shipped the AI Champions program across manufacturing plants. I think in systems, operate at the intersection of technical depth and organizational change, and write about it on Medium.
 
 ---
 
