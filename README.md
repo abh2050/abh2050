@@ -3,7 +3,7 @@
 **AI Engineer & Technical Program Manager**
 Enterprise AI · Multi-Agent Systems · AEC Industry
 
-📍 Portland, OR &nbsp;|&nbsp; SSOE Group &nbsp;|&nbsp; MS AI/ML, University of Michigan (3.87 GPA, Distinction)
+📍 Portland, OR &nbsp;|&nbsp; SSOE Group &nbsp;|&nbsp; MS AI/ML, University of Michigan
 
 [LinkedIn](https://www.linkedin.com/in/abhishek175/) · [Email](mailto:abh2050@gmail.com) · [Medium](https://medium.com/@jwbtmf) · [Podcast](https://creators.spotify.com/pod/dashboard/episodes)
 
