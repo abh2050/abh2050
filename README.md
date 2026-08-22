@@ -35,8 +35,8 @@ Technical roadmaps, stakeholder alignment, and vendor evaluation at the enterpri
 
 ### Featured Projects
 
-**Pathfinder — Multi-Agent Sales Intelligence System** `ACTIVE`
-Production multi-agent architecture with specialized sub-agents: market discovery, account intelligence, competitive intelligence, pre-RFP enablement, and portfolio learning. Evaluating Anthropic Managed Agents API vs Agent SDK for enterprise compliance. Built for AEC sales cycles.
+**Multi-Agent Sales Intelligence System** `ACTIVE`
+Production multi-agent architecture with specialized sub-agents: market discovery, account intelligence, competitive intelligence, enablement, and portfolio learning. Evaluating Anthropic Managed Agents API vs Agent SDK for enterprise compliance. 
 
 **Abacus AI Enterprise Platform — SSOE Group** `ENTERPRISE`
 Governing the full Abacus AI deployment across a 2,000+ person AEC firm. AI App Store governance framework, vendor workstream oversight, multi-agent and RAG system delivery, and Microsoft Copilot rollout program management.
