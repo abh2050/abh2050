@@ -1,84 +1,165 @@
-## Abhishek Shah, PMP
+# Abhishek Shah, PMP
 
-**AI Solution Architect & Technical Program Manager**
-Enterprise AI · Multi-Agent Systems · Industrial & AEC
+**Enterprise AI Solution Architect | Agentic AI Systems | Technical Program Leadership**
 
-📍 Beaverton, OR &nbsp;|&nbsp; SSOE Group &nbsp;|&nbsp; MS AI/ML, University of Michigan
+Building production AI systems where technical reliability, enterprise governance, and measurable business value converge.
 
-[Portfolio](https://abh2050.github.io/abhishek-shah-portfolio/) · [LinkedIn](https://www.linkedin.com/in/abhishek175/) · [Email](mailto:abh2050@gmail.com) · [Medium](https://medium.com/@jwbtmf) · [Podcast](https://abh2050.github.io/abhishek-shah-portfolio/#podcasts)
+**Beaverton, Oregon** · SSOE Group · M.S. AI/ML, University of Michigan
 
----
-
-### About
-
-I build production multi-agent AI systems for enterprise environments where compliance, governance, and reliability are non-negotiable. At SSOE Group, a 1,400-person architecture, engineering, and construction firm, I architected a production multi-agent RAG system for business development and proposal work, and I led the firm-wide launch of the Abacus AI platform. I also define how teams build and publish agents in Microsoft Copilot Studio and oversee vendor RAG and multi-agent workstreams.
-
-Before this role: Started as a chemical engineer, then pivoted to AI while at Intel. At BMW of North America, shipped the AI Champions program across manufacturing plants. I think in systems, operate at the intersection of technical depth and organizational change, and write about it on Medium.
+[Portfolio](https://abh2050.github.io/abhishek-shah-portfolio/) · [LinkedIn](https://www.linkedin.com/in/abhishek175/) · [GitHub](https://github.com/abh2050) · [Medium](https://medium.com/@jwbtmf) · [Podcast](https://abh2050.github.io/abhishek-shah-portfolio/#podcasts) · [Email](mailto:abh2050@gmail.com)
 
 ---
 
-### What I Build
+## About
 
-**01 · Production Agent Systems**
-Orchestrated sub-agent architectures with intent routing, state machines, memory persistence, and harness-level reliability engineering. LangGraph, Abacus AI, Anthropic SDK.
+I architect enterprise AI systems that operate in environments where reliability, security, and business consequences matter. My work spans semiconductor manufacturing, automotive production, and architecture, engineering, and construction (AEC).
 
-**02 · Enterprise RAG Pipelines**
-Hybrid BM25 and dense-vector retrieval, multi-source evidence reconciliation, and access control through Microsoft Entra ID.
+At **SSOE Group**, I lead AI architecture and enterprise adoption initiatives across a 1,400-person engineering organization. I architected a production multi-agent RAG system supporting business development and proposal intelligence, led the enterprise rollout of Abacus AI, and help establish the technical and governance frameworks for building and deploying AI agents at scale.
 
-**03 · AI Platform Governance**
-AI App Store frameworks, vendor workstream management, enterprise LLM rollouts. Security-first: Microsoft Defender, SentinelOne, compliance-grade logging.
+My work connects three disciplines:
 
-**04 · AI Program Management**
-Technical roadmaps, stakeholder alignment, and vendor evaluation at the enterprise scale. PMP-certified. Built for organizations where AI is infrastructure, not experiment.
+- **AI systems architecture:** Agent orchestration, retrieval-augmented generation, enterprise knowledge systems, deterministic workflows, evaluation, and observability.
+- **Enterprise AI transformation:** Platform adoption, security governance, citizen development, vendor integration, and scalable deployment.
+- **Technical program leadership:** Translating business requirements into architecture, coordinating cross-functional execution, and delivering measurable outcomes.
 
----
+My background began in chemical engineering, progressed through semiconductor process engineering at Intel, and evolved into applied AI and enterprise architecture. At BMW of North America, I led an AI Champions initiative spanning manufacturing operations in the United States, Germany, and China.
 
-### Featured Work
-
-**Multi-Agent Sales Intelligence System** `ACTIVE`
-Production multi-agent architecture with specialized sub-agents: market discovery, account intelligence, competitive intelligence, enablement, and portfolio learning. Intent routing, hybrid retrieval, and Entra ID access control; used by 200+ executives. Evaluating Anthropic Managed Agents API vs Agent SDK for enterprise compliance.
-
-**Abacus AI Enterprise Platform — SSOE Group** `ENTERPRISE`
-Firm-wide launch to 1,400 employees: 80% adoption in 30 days, full deployment by day 90. About 900 citizen-built agentic apps, published through an AI App Store with a three-stage review chain. Platform ontology, token budgets, and usage and cost dashboards.
-
-**Azure Page-Indexed RAG Architecture** `RESEARCH`
-Designed for large-scale enterprise document collections: page-level indexing, hybrid retrieval, multi-source reasoning with parallel orchestration and evidence reconciliation across star-schema heterogeneous sources.
-
-**BMW AI Champions Program** `SHIPPED`
-Designed and ran the AI Champions program at BMW of North America across the Spartanburg, Germany, and China sites, training plant teams to identify and run manufacturing AI use cases on their own.
+I approach AI as an engineering discipline: **models provide intelligence; architecture, validation, and governance make that intelligence dependable.**
 
 ---
 
-### Open-Source Case Studies
+## Enterprise Impact
 
-Independent projects with recorded evaluations, stated limits, and negative results. Read the write-ups on the [portfolio](https://abh2050.github.io/abhishek-shah-portfolio/).
+### Multi-Agent Sales Intelligence Platform
+**Production Architecture | SSOE Group**
 
-| Project | What it shows |
+Architected a production multi-agent intelligence system serving more than 200 executives and business stakeholders.
+
+- Specialized agents for market discovery, account intelligence, competitive analysis, sales enablement, and organizational knowledge.
+- Intent-based routing, hybrid retrieval, and multi-source evidence synthesis.
+- Enterprise identity and access control through Microsoft Entra ID.
+- Architecture designed around reliable orchestration, persistent state, and controlled tool execution.
+- Ongoing evaluation of managed agent infrastructure and SDK-based implementations for enterprise security and operational requirements.
+
+**Business value:** Makes institutional knowledge and market intelligence accessible through a coordinated AI workflow rather than disconnected document searches.
+
+### Enterprise AI Platform Transformation
+**1,400 Employees | SSOE Group**
+
+Led the enterprise rollout and governance of Abacus AI, enabling AI-assisted workflows across engineering and business functions.
+
+- **80% adoption within 30 days**, with enterprise deployment completed by day 90.
+- Approximately **900 employee-built AI applications** across business functions.
+- Established an AI App Store governance model with a three-stage application review process.
+- Defined usage controls, token budgets, application publishing standards, and adoption reporting.
+- Coordinated enterprise AI platform strategy across Abacus AI, Microsoft Copilot Studio, and external AI vendors.
+
+**Business value:** Turned enterprise AI from isolated experiments into a governed, broadly accessible organizational capability.
+
+### Enterprise Document Intelligence
+**Azure | RAG Architecture and Research**
+
+Designed an architecture for complex engineering document collections where answers must be traceable to source evidence.
+
+- Layout-aware, page-level indexing for engineering documents.
+- Hybrid BM25 and semantic retrieval.
+- Parallel multi-source retrieval and evidence reconciliation.
+- Identity-aware information access.
+- Evaluation of retrieval quality, citation fidelity, and system reliability.
+
+**Technical focus:** Moving beyond basic chatbot RAG toward evidence-grounded enterprise knowledge systems.
+
+### BMW AI Champions Program
+**Manufacturing AI | Delivered**
+
+Designed and led an AI enablement program across BMW manufacturing operations in Spartanburg, Germany, and China.
+
+- Enabled plant teams to identify, prioritize, and develop manufacturing AI opportunities.
+- Connected operational challenges with practical data science and AI capabilities.
+- Built cross-site collaboration and knowledge-sharing practices.
+
+**Business value:** Expanded organizational capacity to discover and execute applied AI initiatives closer to manufacturing operations.
+
+---
+
+## Architecture and Engineering Focus
+
+### 01 / Agentic AI and Reliable Orchestration
+
+Designing systems where LLMs operate within explicit execution boundaries rather than unrestricted autonomous loops.
+
+**Focus:** LangGraph, Anthropic SDK, agent routing, state machines, checkpoints, bounded tool execution, structured outputs, human approval, and evaluation harnesses.
+
+### 02 / Enterprise RAG and Knowledge Systems
+
+Building retrieval architectures that preserve source traceability, respect access permissions, and reconcile evidence across enterprise information systems.
+
+**Focus:** Hybrid search, reranking, document parsing, citation grounding, Entra ID authorization, and retrieval evaluation.
+
+### 03 / Ontology-Driven AI and Decision Intelligence
+
+Exploring how semantic models, business rules, and knowledge graphs can give AI agents a shared operational understanding of enterprise entities, relationships, and constraints.
+
+**Focus:** Domain ontologies, knowledge graphs, policy-constrained decisions, deterministic rule engines, and auditable agent execution.
+
+### 04 / AI Platform Engineering and Governance
+
+Establishing the infrastructure and controls required to operate AI systems across departments, users, and business processes.
+
+**Focus:** Platform governance, application lifecycle management, IAM, observability, LLM cost controls, security reviews, and responsible deployment.
+
+### 05 / Technical AI Program Leadership
+
+Connecting architecture decisions with enterprise outcomes through disciplined engineering execution.
+
+**Focus:** Technical roadmaps, architecture tradeoffs, vendor evaluation, stakeholder alignment, operational KPIs, and cross-functional delivery.
+
+---
+
+## Selected Engineering Projects
+
+I maintain independent engineering case studies to test architectures, quantify reliability, and document what works—and what does not.
+
+These projects emphasize **reproducible evaluations, real execution evidence, failure analysis, and explicit engineering tradeoffs.**
+
+| Project | Engineering Focus |
 |---|---|
-| [Enterprise RAG on AWS](https://github.com/abh2050/enterprise-rag-aws) | Hybrid retrieval with access rechecked after retrieval; recorded AWS verification |
-| [YieldLoop](https://github.com/abh2050/yieldloop-wafer-triage-with-HIL) | Calibrated wafer-defect classification with human review and lot-separated evaluation |
-| [Edge AI Inspection Gates](https://github.com/abh2050/edge-ai-inspection-gates) | Edge vision measured against latency, recall, and cost gates. Latency passed; recall did not |
-| [Sentinel AI](https://github.com/abh2050/sentinel-ai) | Incident investigation to a sandbox-tested, human-approved pull request |
-| [Fault Triage AI](https://github.com/abh2050/fault-triage-ai) | Process-fault agents compared with a deterministic baseline, which the agents did not beat |
-| [MLX SFT on PubMedQA](https://github.com/abh2050/mlx-sft-pubmedqa) | On-device LoRA fine-tuning with held-out evaluation and memory limits |
+| [Ontology-Driven Operational AI](https://github.com/abh2050/ontology-ops) | Enterprise ontology, operational state, governed AI decisions, and agent orchestration on AWS |
+| [HVAC AI Service Desk](https://github.com/abh2050/hvac-ai-service-desk) | Industrial fault detection, evidence-grounded diagnosis, human-approved work orders, and technician workflows |
+| [Enterprise AI Control Plane](https://github.com/abh2050/enterprise-ai-control-plane) | Governance, policy enforcement, observability, and operational controls for enterprise agents |
+| [Enterprise RAG on AWS](https://github.com/abh2050/enterprise-rag-aws) | Hybrid retrieval, authorization enforcement, and recorded AWS verification |
+| [YieldLoop](https://github.com/abh2050/yieldloop-wafer-triage-with-HIL) | Calibrated semiconductor defect classification, lot-separated evaluation, and human-in-the-loop review |
+| [Edge AI Inspection Gates](https://github.com/abh2050/edge-ai-inspection-gates) | Manufacturing vision evaluated against latency, recall, and operating-cost thresholds |
+| [Sentinel AI](https://github.com/abh2050/sentinel-ai) | AI-assisted incident investigation with sandbox validation and human-approved remediation |
+| [Fault Triage AI](https://github.com/abh2050/fault-triage-ai) | Agentic fault analysis benchmarked against a deterministic baseline |
+| [MLX SFT on PubMedQA](https://github.com/abh2050/mlx-sft-pubmedqa) | On-device LoRA fine-tuning with held-out evaluations and memory constraints |
+
+**Engineering principle:** A system that fails a measurable evaluation is more informative than a polished demo that never defines success.
 
 ---
 
-### Tech Stack
+## Technical Stack
 
-| Domain | Tools |
+| Domain | Technologies |
 |---|---|
-| AI Platforms | Abacus AI, Anthropic SDK, OpenAI, AWS Bedrock, Microsoft Copilot Studio, DataRobot |
-| Agent & RAG | LangChain, LangGraph, Weaviate, OpenSearch, MCP, DSPy |
-| Cloud & Infra | Azure, AWS, Docker, Kubernetes, GCP |
-| Data & ML | PySpark, XGBoost, TensorFlow, Airflow, PostgreSQL |
-| Languages | Python, SQL, Bash |
-| Security | Microsoft Defender for Endpoint, SentinelOne, XDR |
+| Agentic AI | LangGraph, LangChain, Anthropic Agent SDK, OpenAI, MCP, DSPy |
+| Enterprise AI Platforms | Abacus AI, Microsoft Copilot Studio, AWS Bedrock, DataRobot |
+| Retrieval and Knowledge | Hybrid RAG, BM25, vector search, OpenSearch, Weaviate, knowledge graphs, ontologies |
+| Cloud Architecture | AWS, Microsoft Azure, GCP, Docker, Kubernetes |
+| Data and ML | Python, SQL, PostgreSQL, PySpark, TensorFlow, XGBoost, Airflow |
+| Security and Governance | Microsoft Entra ID, IAM, Microsoft Defender, SentinelOne, XDR |
+| Reliability Engineering | Evaluation harnesses, telemetry, state machines, human-in-the-loop controls, cost and latency analysis |
 
 ---
 
-### Technical Competency
+## Professional Perspective
 
-Chemical engineer turned AI architect. I bring the rare combination of technical depth, enterprise program management, and end-to-end delivery at scale.
+My career has moved from physical process engineering to intelligent software systems, but the underlying principle has not changed:
 
-→ [See the portfolio](https://abh2050.github.io/abhishek-shah-portfolio/) · [Connect on LinkedIn](https://www.linkedin.com/in/abhishek175/)
+**Complex systems must be measurable, controllable, and designed to fail safely.**
+
+The next generation of enterprise AI will require more than powerful language models. It will require architectures that combine agentic reasoning, organizational knowledge, deterministic business constraints, security, and reliable execution.
+
+That is the intersection where I build.
+
+**[Explore My Portfolio](https://abh2050.github.io/abhishek-shah-portfolio/) · [View GitHub Projects](https://github.com/abh2050) · [Connect on LinkedIn](https://www.linkedin.com/in/abhishek175/)**
